@@ -1,9 +1,5 @@
-# 📝 Blog Personnel - Django
+# 📝 Blog D1sph0l1dus
 
-Bienvenue sur le dépôt de mon **blog personnel développé avec Django**.  
-Ce projet me permet d’explorer le développement web avec Python et Django, en construisant une plateforme de publication simple, propre et évolutive.
-
----
 
 ## 🚀 Fonctionnalités
 
@@ -57,7 +53,7 @@ python manage.py runserver
 run locally on localhost:8000 by default
 
 ## Poject structure
-
+```
 blog/
 ├── blog/             # Configuration du projet Django
 ├── posts/            # App principale du blog
@@ -66,3 +62,4 @@ blog/
 ├── media/            # Uploads (images, etc.)
 ├── manage.py
 └── requirements.txt
+```
